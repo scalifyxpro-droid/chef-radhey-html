@@ -481,10 +481,10 @@ export default function RecipesPage() {
  boxShadow: "var(--shadow)"
  }}>
  <div style={{ maxWidth: "620px" }}>
- <div style={{ color: "var(--gold-light)", fontSize: "11px", fontWeight: 700, letterSpacing: "0.12em", textTransform: "uppercase", marginBottom: "8px" }}>
+ <div style={{ color: "#a8f5cc", fontSize: "11px", fontWeight: 700, letterSpacing: "0.12em", textTransform: "uppercase", marginBottom: "8px" }}>
  Commercial Recipe & Macro Engineering
  </div>
- <h2 style={{ fontFamily: "Georgia, serif", fontSize: "28px", fontWeight: 400, color: "#ffffff", margin: "0 0 8px 0" }}>
+ <h2 style={{ fontSize: "28px", fontWeight: 650, color: "#ffffff", margin: "0 0 8px 0" }}>
  Are You a Restaurant Owner or Food Brand?
  </h2>
  <p style={{ color: "#d2ded5", fontSize: "14px", margin: 0, lineHeight: "1.5" }}>

@@ -361,7 +361,7 @@ export default function MealPlansPage() {
  alignItems: "center"
  }}>
  <span>{plan.kcal}</span>
- <span style={{ color: "var(--gold-light, #e6c888)" }}>{plan.protein}</span>
+ <span style={{ color: "var(--gold-light, #24A170)" }}>{plan.protein}</span>
  </div>
  </div>
 
@@ -371,10 +371,10 @@ export default function MealPlansPage() {
  <span style={{
  display: "inline-flex",
  padding: "5px 11px",
- background: "rgba(185, 155, 98, 0.12)",
+ background: "#E8F6F1",
  border: "1px solid rgba(185, 155, 98, 0.3)",
  borderRadius: "30px",
- color: "#8a6a24",
+ color: "#24A170",
  fontSize: "10.5px",
  fontWeight: 700,
  letterSpacing: "0.06em",
@@ -382,7 +382,7 @@ export default function MealPlansPage() {
  }}>
  {plan.categoryLabel}
  </span>
- <div style={{ color: "#8a6a24", display: "flex", alignItems: "center" }}>
+ <div style={{ color: "#24A170", display: "flex", alignItems: "center" }}>
  <IconComp size={20} />
  </div>
  </div>
@@ -486,7 +486,7 @@ export default function MealPlansPage() {
  <CloseIcon size={16} />
  </button>
 
- <span className="pill" style={{ marginBottom: "10px", background: "rgba(185, 155, 98, 0.12)", border: "1px solid rgba(185, 155, 98, 0.28)", color: "#8a6a24", fontWeight: 700, padding: "5px 12px", borderRadius: "30px", fontSize: "11px" }}>
+ <span className="pill" style={{ marginBottom: "10px", background: "#E8F6F1", border: "1px solid rgba(36, 161, 112, 0.25)", color: "#24A170", fontWeight: 700, padding: "5px 12px", borderRadius: "30px", fontSize: "11px" }}>
  {selectedPlan?.categoryLabel || "Meal Plan Enquiry"}
  </span>
 

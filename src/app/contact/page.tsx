@@ -70,7 +70,7 @@ export default function ContactPage() {
  }}>
  {/* Left Contact Info & Direct Desk */}
  <div>
- <div className="eyebrow" style={{ marginBottom: "10px", color: "var(--gold-dark, #8a6a24)", fontWeight: 800 }}>Dubai Operations</div>
+ <div className="eyebrow" style={{ marginBottom: "10px", color: "var(--gold-dark, #24A170)", fontWeight: 800 }}>Dubai Operations</div>
  <h2 style={{ fontFamily: "Georgia, serif", fontSize: "36px", fontWeight: 400, margin: "0 0 16px 0", color: "#17281f" }}>
  We Are Here to Assist You.
  </h2>

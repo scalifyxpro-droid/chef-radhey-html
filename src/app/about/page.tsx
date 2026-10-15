@@ -78,19 +78,19 @@ export default function AboutPage() {
 
  {/* 4 Pillars of Excellence */}
  <div style={{ display: "grid", gridTemplateColumns: "1fr 1fr", gap: "16px", marginBottom: "32px" }}>
- <div style={{ borderLeft: "2px solid var(--gold, #b99b62)", paddingLeft: "14px" }}>
+ <div style={{ borderLeft: "2px solid var(--gold, #24A170)", paddingLeft: "14px" }}>
  <strong style={{ display: "block", fontSize: "15px", color: "#17281f", marginBottom: "4px" }}>18+ Years Experience</strong>
  <span style={{ fontSize: "12.5px", color: "#4a594f" }}>Executive chef leadership across top Dubai culinary establishments.</span>
  </div>
- <div style={{ borderLeft: "2px solid var(--gold, #b99b62)", paddingLeft: "14px" }}>
+ <div style={{ borderLeft: "2px solid var(--gold, #24A170)", paddingLeft: "14px" }}>
  <strong style={{ display: "block", fontSize: "15px", color: "#17281f", marginBottom: "4px" }}>1,000+ Recipe Vault</strong>
  <span style={{ fontSize: "12.5px", color: "#4a594f" }}>Proprietary dishes tested for taste, yield, and macro accuracy.</span>
  </div>
- <div style={{ borderLeft: "2px solid var(--gold, #b99b62)", paddingLeft: "14px" }}>
+ <div style={{ borderLeft: "2px solid var(--gold, #24A170)", paddingLeft: "14px" }}>
  <strong style={{ display: "block", fontSize: "15px", color: "#17281f", marginBottom: "4px" }}>Zero Industrial Oils</strong>
  <span style={{ fontSize: "12.5px", color: "#4a594f" }}>Only extra virgin olive oil, cold-pressed coconut, and grass-fed fats.</span>
  </div>
- <div style={{ borderLeft: "2px solid var(--gold, #b99b62)", paddingLeft: "14px" }}>
+ <div style={{ borderLeft: "2px solid var(--gold, #24A170)", paddingLeft: "14px" }}>
  <strong style={{ display: "block", fontSize: "15px", color: "#17281f", marginBottom: "4px" }}>Turnkey B2B Advisory</strong>
  <span style={{ fontSize: "12.5px", color: "#4a594f" }}>Helping food startups and cafes build scalable, profitable concepts.</span>
  </div>

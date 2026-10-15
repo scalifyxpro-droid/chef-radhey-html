@@ -189,7 +189,7 @@ export default function ConsultingPage() {
  </p>
 
  <div style={{ borderTop: "1px solid var(--line)", paddingTop: "16px" }}>
- <div style={{ fontSize: "11px", fontWeight: 700, color: "var(--gold-dark, #8a6a24)", textTransform: "uppercase", letterSpacing: "0.06em", marginBottom: "8px" }}>
+ <div style={{ fontSize: "11px", fontWeight: 700, color: "var(--gold-dark, #24A170)", textTransform: "uppercase", letterSpacing: "0.06em", marginBottom: "8px" }}>
  Deliverables & Focus:
  </div>
  <ul style={{ paddingLeft: "18px", margin: 0, fontSize: "12.5px", color: "#4a594f", display: "grid", gap: "6px" }}>
@@ -208,7 +208,7 @@ export default function ConsultingPage() {
  <section style={{ padding: "80px 0", background: "var(--cream)" }}>
  <div className="container" style={{ maxWidth: "860px" }}>
  <div className="section-head center">
- <div className="eyebrow" style={{ color: "var(--gold-dark, #8a6a24)", fontWeight: 800, letterSpacing: "0.15em", textTransform: "uppercase", fontSize: "11px", marginBottom: "8px" }}>
+ <div className="eyebrow" style={{ color: "var(--gold-dark, #24A170)", fontWeight: 800, letterSpacing: "0.15em", textTransform: "uppercase", fontSize: "11px", marginBottom: "8px" }}>
  Direct Commercial Consultation
  </div>
  <h2 style={{ color: "#17281f", fontFamily: "Georgia, serif", fontSize: "clamp(30px, 4vw, 44px)", margin: "10px 0 14px", fontWeight: 400 }}>
