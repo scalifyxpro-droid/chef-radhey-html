@@ -1,8 +1,12 @@
 {
-  "rewrites": [
-    { "source": "/", "destination": "/index.html" },
-    { "source": "/about", "destination": "/about.html" },
-    { "source": "/meal-plans", "destination": "/meal-plans.html" },
-    { "source": "/restaurant-setup", "destination": "/restaurant-setup.html" }
+  "framework": null,
+  "buildCommand": null,
+  "outputDirectory": null,
+  "routes": [
+    { "src": "/$", "dest": "/index.html" },
+    { "src": "/about", "dest": "/about.html" },
+    { "src": "/meal-plans", "dest": "/meal-plans.html" },
+    { "src": "/restaurant-setup", "dest": "/restaurant-setup.html" },
+    { "handle": "filesystem" }
   ]
 }
