@@ -1,12 +1,3 @@
 {
-  "framework": null,
-  "buildCommand": null,
-  "outputDirectory": null,
-  "routes": [
-    { "src": "/$", "dest": "/index.html" },
-    { "src": "/about", "dest": "/about.html" },
-    { "src": "/meal-plans", "dest": "/meal-plans.html" },
-    { "src": "/restaurant-setup", "dest": "/restaurant-setup.html" },
-    { "handle": "filesystem" }
-  ]
+  "cleanUrls": true
 }
